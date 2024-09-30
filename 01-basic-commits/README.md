@@ -7,8 +7,6 @@ This kata will introduce you to the `git add` and `git commit` commands.
 
 ## Los ejercicios
 
-1. Usa `git status` para ver en qué rama estás.
-
 
 ## Comandos útiles
 - `git add`
