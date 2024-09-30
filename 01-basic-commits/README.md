@@ -3,7 +3,8 @@ This kata will introduce you to the `git add` and `git commit` commands.
 
 ## Configuración:
 
-1. Ejecuta `source setup.sh`
+1. Utiliza el commando `git log --oneline -- 01-basic-commits/` para ver los ejercicios.
+2. Ejecuta `source setup.sh`
 
 ## Comandos útiles
 - `git add`
