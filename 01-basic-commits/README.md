@@ -13,7 +13,6 @@ This kata will introduce you to the `git add` and `git commit` commands.
 4. ¿Cómo se ve ahora el resultado de `git status`?
 5. `add` el fichero al área de preparación
 6. ¿Cómo se ve ahora `git status`?
-7. `commit` el fichero al repositorio
 
 ## Comandos útiles
 - `git add`
