@@ -11,7 +11,6 @@ This kata will introduce you to the `git add` and `git commit` commands.
 2. ¿Cómo se ve `git log`?
 3. Crea un fichero
 4. ¿Cómo se ve ahora el resultado de `git status`?
-5. `add` el fichero al área de preparación
 
 ## Comandos útiles
 - `git add`
