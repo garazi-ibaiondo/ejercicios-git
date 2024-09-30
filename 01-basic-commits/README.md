@@ -21,7 +21,7 @@ This kata will introduce you to the `git add` and `git commit` commands.
 
 ## Configuración inicial de git
 1. `git config --global user.name "John Doe"`
-1. `git config --global user.email "johndoe@example.com`
+2. `git config --global user.email "johndoe@example.com`
 
 Para los que tienen miedo a vim:
 - `git config --global core.editor nano`
