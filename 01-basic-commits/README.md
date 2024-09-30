@@ -18,7 +18,6 @@ This kata will introduce you to the `git add` and `git commit` commands.
 9. Cambia el contenido del fichero que creaste anteriormente
 10. ¿Cómo se ve ahora `git status`?
 11. `add` el cambio del fichero
-12. ¿Cómo se ve ahora `git status`?
 
 ## Comandos útiles
 - `git add`
