@@ -5,9 +5,6 @@ This kata will introduce you to the `git add` and `git commit` commands.
 
 1. Ejecuta `source setup.sh`
 
-## Los ejercicios
-
-
 ## Comandos útiles
 - `git add`
 - `git commit`
