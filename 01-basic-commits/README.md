@@ -4,7 +4,7 @@ This kata will introduce you to the `git add` and `git commit` commands.
 ## Configuración:
 
 1. Utiliza el commando `git log --oneline -- 01-basic-commits/` para ver los ejercicios.
-2. Ejecuta `source setup.sh`
+2. Ejecuta `source setup.sh` (o `setup.ps1` en PowerShell)
 
 ## Comandos útiles
 - `git add`
@@ -14,9 +14,9 @@ This kata will introduce you to the `git add` and `git commit` commands.
 - `git log -n 5`
 - `git log --oneline`
 - `git log --oneline --graph`
-- `touch filename` para crear un fichero
-- `echo contenido > file` para sobreescribir un fichero con contenido
-- `echo contenido >> file` para anexar contenido al fichero
+- `touch filename` para crear un fichero (o `sc filename ''` en PowerShell)
+- `echo contenido > file` para sobreescribir un fichero con contenido (o `sc filename 'contenido'` en PowerShell)
+- `echo contenido >> file` para anexar contenido al fichero (o `ac filename 'contenido'` en PowerShell)
 
 
 ## Configuración inicial de git
